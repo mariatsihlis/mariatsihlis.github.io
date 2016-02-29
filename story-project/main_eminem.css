@@ -1,0 +1,180 @@
+/* CSS Document */
+
+body {
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: franklin gothic, sans-serif;
+    font-size: 1500%;
+    color: #ffffff;
+    text-align: center;
+	background-color: #000000
+}
+
+h2 {
+    font-family: franklin gothic, sans-serif;
+    font-size: 300%;
+    color: #ffffff;
+    text-align: center;
+}
+
+p#one {
+    font-family: franklin gothicserif, sans-serif;
+    font-size: 150%;
+	color: #ffffff;
+    text-align: center;
+	margin-left: 50px;
+	margin-right: 75px;
+	margin-top: 300px;
+	margin-bottom: 100px;
+}
+
+p#two {
+    font-family: franklin gothicserif, sans-serif;
+    font-size: 500%;
+	font-weight: bold;
+	color: #ffffff;
+    text-align: center;
+	margin-left: 50px;
+	margin-right: 75px;
+	margin-top: 300px;
+	margin-bottom: 100px;
+}
+
+p#three {
+    font-family: franklin gothicserif, sans-serif;
+    font-size: 150%;
+	color: #ffffff;
+    text-align: center;
+	margin-left: 50px;
+	margin-right: 75px;
+	margin-top: 200px;
+	margin-bottom: 100px;
+}
+
+p#four {
+    font-family: franklin gothicserif, sans-serif;
+    font-size: 150%;
+	color: #ffffff;
+    text-align: center;
+	margin-left: 50px;
+	margin-right: 75px;
+	margin-top: 200px;
+	margin-bottom: 100px;
+}
+
+p#five {
+    font-family: franklin gothicserif, sans-serif;
+    font-size: 600%;
+	font-weight: bold;
+	color: #ffffff;
+    text-align: center;
+	margin-left: 50px;
+	margin-right: 75px;
+	margin-top: 300px;
+	margin-bottom: 100px;
+}
+
+p#six {
+    font-family: franklin gothicserif, sans-serif;
+    font-size: 150%;
+	color: #ffffff;
+    text-align: center;
+	margin-left: 50px;
+	margin-right: 75px;
+	margin-top: 180px;
+	margin-bottom: 100px;
+}
+
+p#seven {
+	font-family: franklin gothicserif, sans-serif;
+    font-size: 150%;
+	color: #ffffff;
+    text-align: center;
+	margin-left: 50px;
+	margin-right: 75px;
+	margin-top: 180px;
+	margin-bottom: 100px;
+}
+
+p#eight {
+    font-family: franklin gothicserif, sans-serif;
+    font-size: 150%;
+	color: #ffffff;
+    text-align: center;
+	margin-left: 50px;
+	margin-right: 75px;
+	margin-top: 180px;
+	margin-bottom: 100px;
+}
+
+p#nine {
+    font-family: franklin gothicserif, sans-serif;
+    font-size: 700%;
+	font-weight: bold;
+	color: #ffffff;
+    text-align: center;
+	margin-left: 50px;
+	margin-right: 75px;
+	margin-top: 300px;
+	margin-bottom: 100px;
+}
+
+p#ten {
+    font-family: franklin gothicserif, sans-serif;
+    font-size: 150%;
+	color: #ffffff;
+    text-align: center;
+	margin-left: 50px;
+	margin-right: 75px;
+	margin-top: 180px;
+	margin-bottom: 100px;
+}
+
+p#eleven {
+    font-family: franklin gothicserif, sans-serif;
+    font-size: 150%;
+	color: #ffffff;
+    text-align: center;
+	margin-left: 50px;
+	margin-right: 75px;
+	margin-top: 180px;
+	margin-bottom: 100px;
+}
+
+p#twelve {
+    font-family: franklin gothicserif, sans-serif;
+    font-size: 150%;
+	color: #ffffff;
+    text-align: center;
+	margin-left: 50px;
+	margin-right: 75px;
+	margin-top: 180px;
+	margin-bottom: 100px;
+}
+
+p#thirteen {
+    font-family: franklin gothic, sans-serif;
+    font-size: 1500%;
+    color: #ffffff;
+    text-align: center;
+	background-color: #000000
+}
+
+p#fourteen {
+    font-family: franklin gothic, sans-serif;
+    font-size: 150%;
+    color: #ffffff;
+    text-align: center;
+	background-color: #000000
+}
+
+.largefont { 
+  color: #ffffff; 
+  font-family: franklin gothicserif, sans-serif; 
+  font-size: 70px; 
+}
+
