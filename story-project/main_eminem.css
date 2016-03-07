@@ -23,7 +23,7 @@ h2 {
 
 p#one {
     font-family: franklin gothicserif, sans-serif;
-    font-size: 150%;
+    font-size: 200%;
 	color: #ffffff;
     text-align: center;
 	margin-left: 50px;
@@ -46,7 +46,7 @@ p#two {
 
 p#three {
     font-family: franklin gothicserif, sans-serif;
-    font-size: 150%;
+    font-size: 200%;
 	color: #ffffff;
     text-align: center;
 	margin-left: 50px;
@@ -57,7 +57,7 @@ p#three {
 
 p#four {
     font-family: franklin gothicserif, sans-serif;
-    font-size: 150%;
+    font-size: 200%;
 	color: #ffffff;
     text-align: center;
 	margin-left: 50px;
@@ -80,7 +80,7 @@ p#five {
 
 p#six {
     font-family: franklin gothicserif, sans-serif;
-    font-size: 150%;
+    font-size: 200%;
 	color: #ffffff;
     text-align: center;
 	margin-left: 50px;
@@ -91,7 +91,7 @@ p#six {
 
 p#seven {
 	font-family: franklin gothicserif, sans-serif;
-    font-size: 150%;
+    font-size: 200%;
 	color: #ffffff;
     text-align: center;
 	margin-left: 50px;
@@ -102,7 +102,7 @@ p#seven {
 
 p#eight {
     font-family: franklin gothicserif, sans-serif;
-    font-size: 150%;
+    font-size: 200%;
 	color: #ffffff;
     text-align: center;
 	margin-left: 50px;
@@ -125,7 +125,7 @@ p#nine {
 
 p#ten {
     font-family: franklin gothicserif, sans-serif;
-    font-size: 150%;
+    font-size: 200%;
 	color: #ffffff;
     text-align: center;
 	margin-left: 50px;
@@ -136,7 +136,7 @@ p#ten {
 
 p#eleven {
     font-family: franklin gothicserif, sans-serif;
-    font-size: 150%;
+    font-size: 200%;
 	color: #ffffff;
     text-align: center;
 	margin-left: 50px;
@@ -147,7 +147,7 @@ p#eleven {
 
 p#twelve {
     font-family: franklin gothicserif, sans-serif;
-    font-size: 150%;
+    font-size: 200%;
 	color: #ffffff;
     text-align: center;
 	margin-left: 50px;
@@ -166,15 +166,40 @@ p#thirteen {
 
 p#fourteen {
     font-family: franklin gothic, sans-serif;
-    font-size: 150%;
+    font-size: 200%;
     color: #ffffff;
     text-align: center;
 	background-color: #000000
+}
+
+/* unvisited link */
+a:link {
+    color: #800000;
+}
+
+/* visited link */
+a:visited {
+    color: white	;
+}
+
+/* mouse over link */
+a:hover {
+    color: #800000;
+}
+
+/* selected link */
+a:active {
+    color: #800000;
 }
 
 .largefont { 
   color: #ffffff; 
   font-family: franklin gothicserif, sans-serif; 
   font-size: 70px; 
+}
+
+div {
+    -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+    animation: mymove 5s infinite;
 }
 
